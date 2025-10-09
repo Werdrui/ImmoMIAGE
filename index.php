@@ -126,8 +126,8 @@ function isActive($page)
                 const select = document.getElementById('departementSelect');
                 data.features.forEach(f => {
                     const opt = document.createElement('option');
-                    opt.value = f.properties.insee;
-                    opt.textContent = f.properties.nom_com;
+                    opt.value = f.properties.DCOE_C_COD;
+                    opt.textContent = f.properties.DCOE_L_LIB;
                     select.appendChild(opt);
                 });
 
@@ -142,11 +142,11 @@ function isActive($page)
                     const f = e.features[0];
                     const props = f.properties;
                     const prix = props.prix_m2 ? `${props.prix_m2} €/m²` : 'N/A';
-                    const insee = props.insee;
+                    const insee = props.DCOE_C_COD;
                     map.getCanvas().style.cursor = 'pointer';
                     popup
                         .setLngLat(e.lngLat)
-                        .setHTML(`<strong>${props.nom_com} (${insee})</strong><br>Prix moyen : ${prix}`)
+                        .setHTML(`<strong>${props.DCOE_L_LIB} (${insee})</strong><br>Prix moyen : ${prix}`)
                         .addTo(map);
                 });
 
@@ -159,7 +159,7 @@ function isActive($page)
                 map.on('click', 'communes-layer', e => {
                     if (!e.features.length) return;
                     const props = e.features[0].properties;
-                    document.getElementById('departementSelect').value = props.insee;
+                    document.getElementById('departementSelect').value = props.DCOE_C_COD;
                     calculerPrix();
                 });
 
@@ -169,13 +169,13 @@ function isActive($page)
                 function calculerPrix() {
                     const insee = document.getElementById('departementSelect').value;
                     const surface = parseFloat(document.getElementById('surfaceInput').value);
-                    const commune = data.features.find(f => f.properties.insee === insee);
+                    const commune = data.features.find(f => f.properties.DCOE_C_COD === insee);
 
                     if (commune && commune.properties.prix_m2) {
                         const prix_m2 = commune.properties.prix_m2;
                         const total = Math.round(prix_m2 * surface).toLocaleString('fr-FR');
                         document.getElementById('info').textContent =
-                            `🏠 ${commune.properties.nom_com} : ${prix_m2} €/m² → Total estimé : ${total} €`;
+                            `🏠 ${commune.properties.DCOE_L_LIB} : ${prix_m2} €/m² → Total estimé : ${total} €`;
                     } else {
                         document.getElementById('info').textContent = 'Aucune donnée disponible pour cette commune.';
                     }
