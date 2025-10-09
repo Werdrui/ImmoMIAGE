@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 class Database
 {
     private static $pdo = null;
@@ -35,4 +35,4 @@ class Database
         }
     }
 }
-?>
+?> -->

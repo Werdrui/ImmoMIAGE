@@ -20,10 +20,6 @@ function isActive($page)
 </head>
 
 <body>
-    <?php
-    require_once 'includes/database.inc.php';
-    $pdo = Database::connect();
-    ?>
     <header class="site-header">
         <div class="container">
             <h1 class="logo"><a href="index.php">MonSite</a></h1>
@@ -52,12 +48,12 @@ function isActive($page)
                     <option value="">Sélectionnez un département</option>
                 </select>
 
-                <input type="number" id="surface-input" value="10" placeholder="Surface en m²" min="1" style="width: 120px; padding: 0.3rem; border-radius: 5px; border: 1px solid #ccc;">
+                <input type="number" id="surfaceInput" value="10" placeholder="Surface en m²" min="1" style="width: 120px; padding: 0.3rem; border-radius: 5px; border: 1px solid #ccc;">
 
                 <button id="calculer" style="padding: 0.5rem 1rem; border-radius: 5px; border: none; background-color: #0b66ff; color: #fff; cursor: pointer;">Calculer</button>
             </div>
 
-            <div id="resultat" style="font-weight: bold; margin-bottom: 1rem;"></div>
+            <div id="info" style="font-weight: bold; margin-bottom: 1rem;"></div>
         </section>
 
         <section id="map-section" class="content">
@@ -96,7 +92,7 @@ function isActive($page)
         });
 
         // Chargement du GeoJSON fusionné (Gironde uniquement)
-        fetch('data/gironde_prix_iris.geojson')
+        fetch('data/communes_gironde_prix.geojson')
             .then(res => res.json())
             .then(data => {
                 // Ajouter la source
