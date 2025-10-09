@@ -30,3 +30,55 @@ body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neu
 .main-nav ul { flex-wrap: wrap; justify-content: center; }
 .hero h2 { font-size: 1.5rem; }
 }
+
+
+
+text{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    display: block;
+}
+
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    text-align: center;
+}
+
+body {
+  background-color: rgb(156, 156, 156);
+}
+
+input {
+    text-align: center;
+    align-self: center;
+    width: 50%;
+    padding: 15px;
+    border: 2px black;
+    border-radius: 50px 20px;
+    margin-bottom: 5px;
+}
+
+input[type="radio"] {
+  width: auto;
+  margin-right: 5px;
+  align-self: center;
+}
+
+input[type="checkbox"] {
+  width: auto;
+  margin-right: 5px;
+  text-align: center;
+}
+
+button{
+    font-size: large;
+    padding: 10px 15px;
+    border: 1px solid gray;
+}
+
+div{
+    align-content: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    align-self: center;
+}
