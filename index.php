@@ -96,7 +96,7 @@ function isActive($page)
         });
 
         // Chargement du GeoJSON fusionné (Gironde uniquement)
-        fetch('data/gironde_prix.geojson')
+        fetch('data/gironde_prix_iris.geojson')
             .then(res => res.json())
             .then(data => {
                 // Ajouter la source
@@ -146,10 +146,11 @@ function isActive($page)
                     const f = e.features[0];
                     const props = f.properties;
                     const prix = props.prix_m2 ? `${props.prix_m2} €/m²` : 'N/A';
+                    const insee = props.insee;
                     map.getCanvas().style.cursor = 'pointer';
                     popup
                         .setLngLat(e.lngLat)
-                        .setHTML(`<strong>${props.nom_com}</strong><br>Prix moyen : ${prix}`)
+                        .setHTML(`<strong>${props.nom_com} (${insee})</strong><br>Prix moyen : ${prix}`)
                         .addTo(map);
                 });
 
