@@ -15,6 +15,14 @@ server.on("request", (req, res) => {
             res.end('erreur!');
     
     
+    }} else if (req.url.startsWith('/images/')){
+        try {
+            res.end(fs.readFileSync('.' + req.url));
+        } catch (err) {
+            console.log(err);
+            res.end('erreur!');
+    
+    
     }} else if(req.url == '/prix'){ // arrivée sur le site
         //let all_images = fs.readdirSync('./static/');
 

@@ -32,11 +32,9 @@ body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neu
 }
 
 
-/* 
 text{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular';
-    display: block;
 }
 
 label{
@@ -44,9 +42,7 @@ label{
     text-align: center;
 }
 
-body {
-  background-color: rgb(156, 156, 156);
-}
+
 
 input {
     text-align: center;
@@ -76,9 +72,41 @@ button{
     border: 1px solid gray;
 }
 
+
+body {
+  background-image: url('/images/accueil_img.png');
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center; 
+  filter: brightness(60%);
+}
+
+#top{
+  text-align: center;
+  margin: 5px 0;
+}
+
+#down{
+  text-align: center;
+  margin: 5px 0;
+  bottom: 8px;
+  left: 16px;
+}
+
+#center{
+  text-align: center;
+  top: 50%;
+}
+
+#accueil_image{
+  width:100%;
+  height:100%;
+  opacity: 0.5;
+}
+
 div{
     align-content: center;
     margin-top: 5px;
     margin-bottom: 5px;
     align-self: center;
-} */
+}
