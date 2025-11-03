@@ -78,6 +78,31 @@ server.on("request", (req, res) => {
             <div>
             <label for="piscine">Piscine :</label>
             <input type="checkbox" id="piscine" name="piscine"><br>
+            </div>
+
+            <div>
+            <label for="parking">Place de parking :</label>
+            <input type="checkbox" id="parking" name="parking"><br>
+            </div>
+
+            <div>
+            <label for="balconTerrasse">Un balcon ou une terrasse :</label>
+            <input type="checkbox" id="balconTerrasse" name="balconTerrasse"><br>
+            </div>
+
+
+            <div>
+            <label for="diagEnergetique">Diagnostique énergétique :</label>
+            <select name="diagEnergetique" id="diagEnergetique">
+            <option value="Inconnu">Inconnu</option>
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+            <option value="E">E</option>
+            <option value="F">F</option>
+            </select>
+            </div>
 
             <button type="submit">Envoyer</button>
         </form>
@@ -90,7 +115,8 @@ server.on("request", (req, res) => {
 
     } else if(req.url.startsWith('/resultat')){
       const queryString = req.url.split('?')[1];
-      let nbMetres, annee, typeLogement, nbPieces, nbMetresJardin, nbEtages, piscine;
+      let nbMetres, annee, typeLogement, nbPieces, nbMetresJardin, nbEtages,
+      piscine, parking, balconTerrasse, diagEnergetique;
       
       if(queryString){
         const params = queryString.split('&'); 
@@ -102,6 +128,9 @@ server.on("request", (req, res) => {
         const nbMetresJardin = params[4]  ? decodeURIComponent(params[4].split('=')[1]) : null;
         const nbEtages = params[5]  ? decodeURIComponent(params[5].split('=')[1]) : null;   
         const piscine = params[6]  ? decodeURIComponent(params[6].split('=')[1]) : null;
+        const parking = params[7]  ? decodeURIComponent(params[7].split('=')[1]) : null;
+        const balconTerrasse = params[8]  ? decodeURIComponent(params[8].split('=')[1]) : null;
+        const diagEnergetique = params[9]  ? decodeURIComponent(params[9].split('=')[1]) : null;
       }
 
       const prix = (parseInt(nbPieces || 0) + parseInt(nbMetresJardin || 0) + parseInt(nbEtages || 0) + parseInt(annee || 0));
