@@ -1,6 +1,7 @@
 const fs = require("fs");
 const http = require("http");
 const { url } = require("inspector");
+const { type } = require("os");
 const host = 'localhost';
 const port = 8080;
 const server = http.createServer();
@@ -114,27 +115,38 @@ server.on("request", (req, res) => {
     res.end(html);
 
     } else if(req.url.startsWith('/resultat')){
-      const queryString = req.url.split('?')[1];
-      let nbMetres, annee, typeLogement, nbPieces, nbMetresJardin, nbEtages,
-      piscine, parking, balconTerrasse, diagEnergetique;
-      
-      if(queryString){
-        const params = queryString.split('&'); 
+        const fullUrl = new URL(req.url, `http://${req.headers.host}`);
+        const params = fullUrl.searchParams;
 
-        const nbMetres = params[0] ? decodeURIComponent(params[0].split('=')[1]) : null;
-        const annee = params[1]  ? decodeURIComponent(params[1].split('=')[1]) : null;
-        const typeLogement = params[2]  ? decodeURIComponent(params[2].split('=')[1]) : null;
-        const nbPieces = params[3]  ? decodeURIComponent(params[3].split('=')[1]) : null;
-        const nbMetresJardin = params[4]  ? decodeURIComponent(params[4].split('=')[1]) : null;
-        const nbEtages = params[5]  ? decodeURIComponent(params[5].split('=')[1]) : null;   
-        const piscine = params[6]  ? decodeURIComponent(params[6].split('=')[1]) : null;
-        const parking = params[7]  ? decodeURIComponent(params[7].split('=')[1]) : null;
-        const balconTerrasse = params[8]  ? decodeURIComponent(params[8].split('=')[1]) : null;
-        const diagEnergetique = params[9]  ? decodeURIComponent(params[9].split('=')[1]) : null;
-      }
+        const nbMetres = Number(params.get('nbMetres')) || 0;
+        const annee = Number(params.get('annee')) || 0;
+        const typeLogement = params.get('typeLogement') || '';
+        const nbPieces = Number(params.get('nbPieces')) || 0;
+        const nbMetresJardin = Number(params.get('nbMetresJardin')) || 0;
+        const nbEtages = Number(params.get('nbEtages')) || 0;
+        const piscine = params.get('piscine') || 'non';
+        const parking = params.get('parking') || 'non';
+        const balconTerrasse = params.get('balconTerrasse') || '';
+        const diagEnergetique = params.get('diagEnergetique') || '';
 
-      const prix = (parseInt(nbPieces || 0) + parseInt(nbMetresJardin || 0) + parseInt(nbEtages || 0) + parseInt(annee || 0));
+        let prix = nbMetres * 3000 + nbPieces * 100000 + nbMetresJardin * 500
+        + nbEtages * 10000 + annee * 1100;
 
+        if (typeLogement === 'appartement') prix += 50000;
+        else prix += 100000;
+
+        if (piscine === 'on') prix += 50000;
+        if (parking === 'on') prix += 50000;
+        if (balconTerrasse === 'oui') prix += 100000;
+
+        switch (diagEnergetique) {
+            case 'A': prix += 50000; break;
+            case 'B': prix += 40000; break;
+            case 'C': prix += 30000; break;
+            case 'D': prix += 20000; break;
+            case 'E': prix += 10000; break;
+            default: prix += 1000;
+        }
               
     let html = `
     <!DOCTYPE html>
@@ -148,7 +160,7 @@ server.on("request", (req, res) => {
         <a href="/index">Retour vers accueil</a><br>
         <h1>Votre prix !</h1><br>
 
-    <p> Le prix est de : </p>
+    <p class="text"> Le prix est de : </p>
 
     ${prix}
 
