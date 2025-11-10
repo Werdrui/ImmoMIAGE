@@ -39,7 +39,7 @@ server.on("request", (req, res) => {
     <body>
         <a href="/index">Retour vers accueil</a><br>
         <!--<img width="200" height="200" src="/static/cabane.jpg">-->
-        <h1>Une maison ? Un prix !</h1><br>
+        <h1>Un logement ? Un prix !</h1><br>
 
         <form id="collecte" method="GET" action="/resultat">
 
