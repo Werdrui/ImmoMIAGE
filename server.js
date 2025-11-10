@@ -105,6 +105,17 @@ server.on("request", (req, res) => {
             </select>
             </div>
 
+            <div>
+            <label for="vestuste">Estimez la vetusté :</label>
+            <select name="vestuste" id="vestuste">
+            <option value="Inconnu">Inconnu</option>
+            <option value="A">Très bon état</option>
+            <option value="B">Bon état</option>
+            <option value="C">Passable</option>
+            <option value="D">Travaux obligatoires</option>
+            </select>
+            </div>
+
             <button type="submit">Envoyer</button>
         </form>
     
@@ -128,6 +139,7 @@ server.on("request", (req, res) => {
         const parking = params.get('parking') || 'non';
         const balconTerrasse = params.get('balconTerrasse') || '';
         const diagEnergetique = params.get('diagEnergetique') || '';
+        const vestuste = params.get('vestuste') || '';
 
         let prix = nbMetres * 3000 + nbPieces * 100000 + nbMetresJardin * 500
         + nbEtages * 10000 + annee * 1100;
@@ -145,6 +157,13 @@ server.on("request", (req, res) => {
             case 'C': prix += 30000; break;
             case 'D': prix += 20000; break;
             case 'E': prix += 10000; break;
+            default: prix += 1000;
+        }
+
+        switch (vestuste) {
+            case 'A': prix += 50000; break;
+            case 'B': prix += 35000; break;
+            case 'C': prix += 20000; break;
             default: prix += 1000;
         }
               
