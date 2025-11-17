@@ -186,7 +186,8 @@ server.on("request", (req, res) => {
     </body>
     </html>
     `;
-    res.end(html);
+    res.setHeader('Content-Type', 'application/json');
+    res.end(JSON.stringify({prix}));
 
 
     } else{

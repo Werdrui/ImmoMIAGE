@@ -12,7 +12,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1183.88
+        "prix_m2": 2367.76
       },
       "geometry": {
         "type": "Polygon",
@@ -89,7 +89,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1443.225
+        "prix_m2": 2886.45
       },
       "geometry": {
         "type": "Polygon",
@@ -226,7 +226,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 3123.055
+        "prix_m2": 6246.11
       },
       "geometry": {
         "type": "Polygon",
@@ -307,7 +307,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 1402.045
+        "prix_m2": 2804.09
       },
       "geometry": {
         "type": "Polygon",
@@ -400,7 +400,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 4358.635
+        "prix_m2": 8717.27
       },
       "geometry": {
         "type": "Polygon",
@@ -473,7 +473,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 831.215
+        "prix_m2": 1662.43
       },
       "geometry": {
         "type": "Polygon",
@@ -546,7 +546,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 2296.83
+        "prix_m2": 4593.66
       },
       "geometry": {
         "type": "Polygon",
@@ -611,7 +611,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1214.61
+        "prix_m2": 2429.22
       },
       "geometry": {
         "type": "Polygon",
@@ -720,7 +720,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération Bassin d'Arcachon Sud (COBAS)",
         "EPCI_CODE": "243300563",
-        "prix_m2": 7507.46
+        "prix_m2": 15014.92
       },
       "geometry": {
         "type": "Polygon",
@@ -773,7 +773,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 1403.215
+        "prix_m2": 2806.43
       },
       "geometry": {
         "type": "Polygon",
@@ -838,7 +838,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 3548.66
+        "prix_m2": 7097.32
       },
       "geometry": {
         "type": "Polygon",
@@ -923,7 +923,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 2607.775
+        "prix_m2": 5215.55
       },
       "geometry": {
         "type": "Polygon",
@@ -992,7 +992,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 2131.32
+        "prix_m2": 4262.64
       },
       "geometry": {
         "type": "Polygon",
@@ -1049,7 +1049,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 2352.575
+        "prix_m2": 4705.15
       },
       "geometry": {
         "type": "Polygon",
@@ -1114,7 +1114,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1642.39
+        "prix_m2": 3284.78
       },
       "geometry": {
         "type": "Polygon",
@@ -1219,7 +1219,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1170.755
+        "prix_m2": 2341.51
       },
       "geometry": {
         "type": "Polygon",
@@ -1276,7 +1276,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 968.475
+        "prix_m2": 1936.95
       },
       "geometry": {
         "type": "Polygon",
@@ -1337,7 +1337,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1297.55
+        "prix_m2": 2595.1
       },
       "geometry": {
         "type": "Polygon",
@@ -1430,7 +1430,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 2140.78
+        "prix_m2": 4281.56
       },
       "geometry": {
         "type": "Polygon",
@@ -1527,7 +1527,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 964.935
+        "prix_m2": 1929.87
       },
       "geometry": {
         "type": "Polygon",
@@ -1596,7 +1596,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1039.085
+        "prix_m2": 2078.17
       },
       "geometry": {
         "type": "Polygon",
@@ -1689,7 +1689,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 2383.955
+        "prix_m2": 4767.91
       },
       "geometry": {
         "type": "Polygon",
@@ -1790,7 +1790,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 12894.685
+        "prix_m2": 25789.37
       },
       "geometry": {
         "type": "Polygon",
@@ -1863,7 +1863,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 904.845
+        "prix_m2": 1809.69
       },
       "geometry": {
         "type": "Polygon",
@@ -1928,7 +1928,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 945.995
+        "prix_m2": 1891.99
       },
       "geometry": {
         "type": "Polygon",
@@ -1989,7 +1989,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1188.605
+        "prix_m2": 2377.21
       },
       "geometry": {
         "type": "Polygon",
@@ -2110,7 +2110,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 789.84
+        "prix_m2": 1579.68
       },
       "geometry": {
         "type": "Polygon",
@@ -2183,7 +2183,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1135.835
+        "prix_m2": 2271.67
       },
       "geometry": {
         "type": "Polygon",
@@ -2244,7 +2244,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Val de l'Eyre",
         "EPCI_CODE": "243301405",
-        "prix_m2": 1886.56
+        "prix_m2": 3773.12
       },
       "geometry": {
         "type": "Polygon",
@@ -2337,7 +2337,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1990.025
+        "prix_m2": 3980.05
       },
       "geometry": {
         "type": "Polygon",
@@ -2414,7 +2414,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 789.63
+        "prix_m2": 1579.26
       },
       "geometry": {
         "type": "Polygon",
@@ -2471,7 +2471,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 3025.635
+        "prix_m2": 6051.27
       },
       "geometry": {
         "type": "Polygon",
@@ -2532,7 +2532,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 2498.3
+        "prix_m2": 4996.6
       },
       "geometry": {
         "type": "Polygon",
@@ -2597,7 +2597,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 921.895
+        "prix_m2": 1843.79
       },
       "geometry": {
         "type": "Polygon",
@@ -2670,7 +2670,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1233.85
+        "prix_m2": 2467.7
       },
       "geometry": {
         "type": "Polygon",
@@ -2743,7 +2743,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1331.075
+        "prix_m2": 2662.15
       },
       "geometry": {
         "type": "Polygon",
@@ -2876,7 +2876,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 2886.545
+        "prix_m2": 5773.09
       },
       "geometry": {
         "type": "Polygon",
@@ -2941,7 +2941,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 860.54
+        "prix_m2": 1721.08
       },
       "geometry": {
         "type": "Polygon",
@@ -3026,7 +3026,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 3523.25
+        "prix_m2": 7046.5
       },
       "geometry": {
         "type": "Polygon",
@@ -3087,7 +3087,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1268.71
+        "prix_m2": 2537.42
       },
       "geometry": {
         "type": "Polygon",
@@ -3140,7 +3140,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Val de l'Eyre",
         "EPCI_CODE": "243301405",
-        "prix_m2": 1653.005
+        "prix_m2": 3306.01
       },
       "geometry": {
         "type": "Polygon",
@@ -3293,7 +3293,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1047.625
+        "prix_m2": 2095.25
       },
       "geometry": {
         "type": "Polygon",
@@ -3346,7 +3346,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1282.52
+        "prix_m2": 2565.04
       },
       "geometry": {
         "type": "Polygon",
@@ -3407,7 +3407,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 1237.335
+        "prix_m2": 2474.67
       },
       "geometry": {
         "type": "Polygon",
@@ -3484,7 +3484,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 954.875
+        "prix_m2": 1909.75
       },
       "geometry": {
         "type": "Polygon",
@@ -3585,7 +3585,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1022.58
+        "prix_m2": 2045.16
       },
       "geometry": {
         "type": "Polygon",
@@ -3678,7 +3678,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1261.355
+        "prix_m2": 2522.71
       },
       "geometry": {
         "type": "Polygon",
@@ -3751,7 +3751,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Rives de la Laurence",
         "EPCI_CODE": "243301249",
-        "prix_m2": 1758.965
+        "prix_m2": 3517.93
       },
       "geometry": {
         "type": "Polygon",
@@ -3816,7 +3816,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1093.37
+        "prix_m2": 2186.74
       },
       "geometry": {
         "type": "Polygon",
@@ -3889,7 +3889,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 2348.03
+        "prix_m2": 4696.06
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4024,7 +4024,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1039.15
+        "prix_m2": 2078.3
       },
       "geometry": {
         "type": "Polygon",
@@ -4085,7 +4085,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 944.735
+        "prix_m2": 1889.47
       },
       "geometry": {
         "type": "Polygon",
@@ -4178,7 +4178,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 889.305
+        "prix_m2": 1778.61
       },
       "geometry": {
         "type": "Polygon",
@@ -4235,7 +4235,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1064.085
+        "prix_m2": 2128.17
       },
       "geometry": {
         "type": "Polygon",
@@ -4324,7 +4324,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 2386.105
+        "prix_m2": 4772.21
       },
       "geometry": {
         "type": "Polygon",
@@ -4437,7 +4437,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1113.875
+        "prix_m2": 2227.75
       },
       "geometry": {
         "type": "Polygon",
@@ -4554,7 +4554,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 3712.005
+        "prix_m2": 7424.01
       },
       "geometry": {
         "type": "Polygon",
@@ -4623,7 +4623,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 957.36
+        "prix_m2": 1914.72
       },
       "geometry": {
         "type": "Polygon",
@@ -4680,7 +4680,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1464.605
+        "prix_m2": 2929.21
       },
       "geometry": {
         "type": "Polygon",
@@ -4741,7 +4741,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 1722.54
+        "prix_m2": 3445.08
       },
       "geometry": {
         "type": "Polygon",
@@ -4810,7 +4810,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1012.195
+        "prix_m2": 2024.39
       },
       "geometry": {
         "type": "Polygon",
@@ -4891,7 +4891,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 5882.985
+        "prix_m2": 11765.97
       },
       "geometry": {
         "type": "Polygon",
@@ -5028,7 +5028,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 812.31
+        "prix_m2": 1624.62
       },
       "geometry": {
         "type": "Polygon",
@@ -5081,7 +5081,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 2930.77
+        "prix_m2": 5861.54
       },
       "geometry": {
         "type": "Polygon",
@@ -5138,7 +5138,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 734.745
+        "prix_m2": 1469.49
       },
       "geometry": {
         "type": "Polygon",
@@ -5207,7 +5207,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1148.42
+        "prix_m2": 2296.84
       },
       "geometry": {
         "type": "Polygon",
@@ -5292,7 +5292,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1156.65
+        "prix_m2": 2313.3
       },
       "geometry": {
         "type": "Polygon",
@@ -5385,7 +5385,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 3582.365
+        "prix_m2": 7164.73
       },
       "geometry": {
         "type": "Polygon",
@@ -5446,7 +5446,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1653.06
+        "prix_m2": 3306.12
       },
       "geometry": {
         "type": "Polygon",
@@ -5507,7 +5507,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1468.565
+        "prix_m2": 2937.13
       },
       "geometry": {
         "type": "Polygon",
@@ -5564,7 +5564,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1186.15
+        "prix_m2": 2372.3
       },
       "geometry": {
         "type": "Polygon",
@@ -5625,7 +5625,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 1034.375
+        "prix_m2": 2068.75
       },
       "geometry": {
         "type": "Polygon",
@@ -5718,7 +5718,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1577.905
+        "prix_m2": 3155.81
       },
       "geometry": {
         "type": "Polygon",
@@ -5783,7 +5783,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 5404.465
+        "prix_m2": 10808.93
       },
       "geometry": {
         "type": "Polygon",
@@ -5852,7 +5852,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1222.14
+        "prix_m2": 2444.28
       },
       "geometry": {
         "type": "Polygon",
@@ -5933,7 +5933,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 1864.495
+        "prix_m2": 3728.99
       },
       "geometry": {
         "type": "Polygon",
@@ -6014,7 +6014,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1131.35
+        "prix_m2": 2262.7
       },
       "geometry": {
         "type": "Polygon",
@@ -6087,7 +6087,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1230.125
+        "prix_m2": 2460.25
       },
       "geometry": {
         "type": "Polygon",
@@ -6140,7 +6140,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 7837.51
+        "prix_m2": 15675.02
       },
       "geometry": {
         "type": "Polygon",
@@ -6225,7 +6225,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1478.65
+        "prix_m2": 2957.3
       },
       "geometry": {
         "type": "Polygon",
@@ -6290,7 +6290,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1285.17
+        "prix_m2": 2570.34
       },
       "geometry": {
         "type": "Polygon",
@@ -6347,7 +6347,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 1615.275
+        "prix_m2": 3230.55
       },
       "geometry": {
         "type": "Polygon",
@@ -6412,7 +6412,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1847.805
+        "prix_m2": 3695.61
       },
       "geometry": {
         "type": "Polygon",
@@ -6465,7 +6465,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 2458.99
+        "prix_m2": 4917.98
       },
       "geometry": {
         "type": "Polygon",
@@ -6542,7 +6542,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 4387.71
+        "prix_m2": 8775.42
       },
       "geometry": {
         "type": "Polygon",
@@ -6607,7 +6607,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 848.055
+        "prix_m2": 1696.11
       },
       "geometry": {
         "type": "Polygon",
@@ -6676,7 +6676,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 822.255
+        "prix_m2": 1644.51
       },
       "geometry": {
         "type": "Polygon",
@@ -6733,7 +6733,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 853.915
+        "prix_m2": 1707.83
       },
       "geometry": {
         "type": "Polygon",
@@ -6798,7 +6798,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Jalle-Eau-Bourde",
         "EPCI_CODE": "243301165",
-        "prix_m2": 2331.845
+        "prix_m2": 4663.69
       },
       "geometry": {
         "type": "Polygon",
@@ -6867,7 +6867,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1343.745
+        "prix_m2": 2687.49
       },
       "geometry": {
         "type": "Polygon",
@@ -6956,7 +6956,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 699.7
+        "prix_m2": 1399.4
       },
       "geometry": {
         "type": "Polygon",
@@ -7021,7 +7021,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 829.45
+        "prix_m2": 1658.9
       },
       "geometry": {
         "type": "Polygon",
@@ -7114,7 +7114,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 1881.9
+        "prix_m2": 3763.8
       },
       "geometry": {
         "type": "Polygon",
@@ -7167,7 +7167,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 2270.86
+        "prix_m2": 4541.72
       },
       "geometry": {
         "type": "Polygon",
@@ -7280,7 +7280,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1441.94
+        "prix_m2": 2883.88
       },
       "geometry": {
         "type": "Polygon",
@@ -7333,7 +7333,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 1906.065
+        "prix_m2": 3812.13
       },
       "geometry": {
         "type": "Polygon",
@@ -7402,7 +7402,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1599.69
+        "prix_m2": 3199.38
       },
       "geometry": {
         "type": "Polygon",
@@ -7479,7 +7479,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 1190.04
+        "prix_m2": 2380.08
       },
       "geometry": {
         "type": "Polygon",
@@ -7544,7 +7544,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 746.19
+        "prix_m2": 1492.38
       },
       "geometry": {
         "type": "Polygon",
@@ -7613,7 +7613,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 752.77
+        "prix_m2": 1505.54
       },
       "geometry": {
         "type": "Polygon",
@@ -7654,7 +7654,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1440.8
+        "prix_m2": 2881.6
       },
       "geometry": {
         "type": "Polygon",
@@ -7739,7 +7739,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1081.89
+        "prix_m2": 2163.78
       },
       "geometry": {
         "type": "Polygon",
@@ -7816,7 +7816,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1292.375
+        "prix_m2": 2584.75
       },
       "geometry": {
         "type": "Polygon",
@@ -7925,7 +7925,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1327.03
+        "prix_m2": 2654.06
       },
       "geometry": {
         "type": "Polygon",
@@ -7998,7 +7998,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 1946.57
+        "prix_m2": 3893.14
       },
       "geometry": {
         "type": "Polygon",
@@ -8055,7 +8055,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1134.77
+        "prix_m2": 2269.54
       },
       "geometry": {
         "type": "Polygon",
@@ -8132,7 +8132,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 955.67
+        "prix_m2": 1911.34
       },
       "geometry": {
         "type": "Polygon",
@@ -8197,7 +8197,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 787.285
+        "prix_m2": 1574.57
       },
       "geometry": {
         "type": "Polygon",
@@ -8274,7 +8274,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1296.455
+        "prix_m2": 2592.91
       },
       "geometry": {
         "type": "Polygon",
@@ -8347,7 +8347,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1463.64
+        "prix_m2": 2927.28
       },
       "geometry": {
         "type": "Polygon",
@@ -8424,7 +8424,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 995.925
+        "prix_m2": 1991.85
       },
       "geometry": {
         "type": "Polygon",
@@ -8501,7 +8501,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 4168.155
+        "prix_m2": 8336.31
       },
       "geometry": {
         "type": "Polygon",
@@ -8582,7 +8582,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1893.095
+        "prix_m2": 3786.19
       },
       "geometry": {
         "type": "Polygon",
@@ -8651,7 +8651,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 6335.245
+        "prix_m2": 12670.49
       },
       "geometry": {
         "type": "Polygon",
@@ -8700,7 +8700,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1186.56
+        "prix_m2": 2373.12
       },
       "geometry": {
         "type": "Polygon",
@@ -8753,7 +8753,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 862.34
+        "prix_m2": 1724.68
       },
       "geometry": {
         "type": "Polygon",
@@ -8818,7 +8818,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Jalle-Eau-Bourde",
         "EPCI_CODE": "243301165",
-        "prix_m2": 5947.075
+        "prix_m2": 11894.15
       },
       "geometry": {
         "type": "Polygon",
@@ -8943,7 +8943,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1155.68
+        "prix_m2": 2311.36
       },
       "geometry": {
         "type": "Polygon",
@@ -9056,7 +9056,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 745.705
+        "prix_m2": 1491.41
       },
       "geometry": {
         "type": "Polygon",
@@ -9145,7 +9145,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1047.81
+        "prix_m2": 2095.62
       },
       "geometry": {
         "type": "Polygon",
@@ -9238,7 +9238,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1277.235
+        "prix_m2": 2554.47
       },
       "geometry": {
         "type": "Polygon",
@@ -9311,7 +9311,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 873.895
+        "prix_m2": 1747.79
       },
       "geometry": {
         "type": "Polygon",
@@ -9360,7 +9360,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 999.08
+        "prix_m2": 1998.16
       },
       "geometry": {
         "type": "Polygon",
@@ -9441,7 +9441,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 913.735
+        "prix_m2": 1827.47
       },
       "geometry": {
         "type": "Polygon",
@@ -9502,7 +9502,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1182.225
+        "prix_m2": 2364.45
       },
       "geometry": {
         "type": "Polygon",
@@ -9571,7 +9571,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1165.66
+        "prix_m2": 2331.32
       },
       "geometry": {
         "type": "Polygon",
@@ -9640,7 +9640,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 892.195
+        "prix_m2": 1784.39
       },
       "geometry": {
         "type": "Polygon",
@@ -9689,7 +9689,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1300.385
+        "prix_m2": 2600.77
       },
       "geometry": {
         "type": "Polygon",
@@ -9746,7 +9746,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1133.64
+        "prix_m2": 2267.28
       },
       "geometry": {
         "type": "Polygon",
@@ -9803,7 +9803,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 966.375
+        "prix_m2": 1932.75
       },
       "geometry": {
         "type": "Polygon",
@@ -9856,7 +9856,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 946.905
+        "prix_m2": 1893.81
       },
       "geometry": {
         "type": "Polygon",
@@ -9949,7 +9949,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 785.105
+        "prix_m2": 1570.21
       },
       "geometry": {
         "type": "Polygon",
@@ -10026,7 +10026,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1186.215
+        "prix_m2": 2372.43
       },
       "geometry": {
         "type": "Polygon",
@@ -10199,7 +10199,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 802.25
+        "prix_m2": 1604.5
       },
       "geometry": {
         "type": "Polygon",
@@ -10264,7 +10264,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 3667.875
+        "prix_m2": 7335.75
       },
       "geometry": {
         "type": "Polygon",
@@ -10333,7 +10333,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 1531.65
+        "prix_m2": 3063.3
       },
       "geometry": {
         "type": "Polygon",
@@ -10386,7 +10386,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1215.555
+        "prix_m2": 2431.11
       },
       "geometry": {
         "type": "Polygon",
@@ -10451,7 +10451,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1876.125
+        "prix_m2": 3752.25
       },
       "geometry": {
         "type": "Polygon",
@@ -10504,7 +10504,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1060.28
+        "prix_m2": 2120.56
       },
       "geometry": {
         "type": "Polygon",
@@ -10621,7 +10621,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1317.37
+        "prix_m2": 2634.74
       },
       "geometry": {
         "type": "Polygon",
@@ -10686,7 +10686,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 1099.93
+        "prix_m2": 2199.86
       },
       "geometry": {
         "type": "Polygon",
@@ -10747,7 +10747,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1720.94
+        "prix_m2": 3441.88
       },
       "geometry": {
         "type": "Polygon",
@@ -10824,7 +10824,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 475.73
+        "prix_m2": 951.46
       },
       "geometry": {
         "type": "Polygon",
@@ -10869,7 +10869,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 924.625
+        "prix_m2": 1849.25
       },
       "geometry": {
         "type": "Polygon",
@@ -10938,7 +10938,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1191.595
+        "prix_m2": 2383.19
       },
       "geometry": {
         "type": "Polygon",
@@ -11019,7 +11019,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 853.305
+        "prix_m2": 1706.61
       },
       "geometry": {
         "type": "Polygon",
@@ -11128,7 +11128,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1429.735
+        "prix_m2": 2859.47
       },
       "geometry": {
         "type": "Polygon",
@@ -11181,7 +11181,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1281.035
+        "prix_m2": 2562.07
       },
       "geometry": {
         "type": "Polygon",
@@ -11242,7 +11242,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 742.66
+        "prix_m2": 1485.32
       },
       "geometry": {
         "type": "Polygon",
@@ -11355,7 +11355,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 761.705
+        "prix_m2": 1523.41
       },
       "geometry": {
         "type": "Polygon",
@@ -11436,7 +11436,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 769.52
+        "prix_m2": 1539.04
       },
       "geometry": {
         "type": "Polygon",
@@ -11497,7 +11497,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1216.895
+        "prix_m2": 2433.79
       },
       "geometry": {
         "type": "Polygon",
@@ -11562,7 +11562,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 785.545
+        "prix_m2": 1571.09
       },
       "geometry": {
         "type": "Polygon",
@@ -11635,7 +11635,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 707.64
+        "prix_m2": 1415.28
       },
       "geometry": {
         "type": "Polygon",
@@ -11708,7 +11708,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 903.825
+        "prix_m2": 1807.65
       },
       "geometry": {
         "type": "Polygon",
@@ -11781,7 +11781,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 3456.11
+        "prix_m2": 6912.22
       },
       "geometry": {
         "type": "Polygon",
@@ -11842,7 +11842,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 1974.875
+        "prix_m2": 3949.75
       },
       "geometry": {
         "type": "Polygon",
@@ -11919,7 +11919,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1066.485
+        "prix_m2": 2132.97
       },
       "geometry": {
         "type": "Polygon",
@@ -11996,7 +11996,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 2221.9
+        "prix_m2": 4443.8
       },
       "geometry": {
         "type": "Polygon",
@@ -12073,7 +12073,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 2780.11
+        "prix_m2": 5560.22
       },
       "geometry": {
         "type": "Polygon",
@@ -12142,7 +12142,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 850.965
+        "prix_m2": 1701.93
       },
       "geometry": {
         "type": "Polygon",
@@ -12235,7 +12235,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 4005.555
+        "prix_m2": 8011.11
       },
       "geometry": {
         "type": "Polygon",
@@ -12304,7 +12304,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 877.345
+        "prix_m2": 1754.69
       },
       "geometry": {
         "type": "Polygon",
@@ -12369,7 +12369,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 823.87
+        "prix_m2": 1647.74
       },
       "geometry": {
         "type": "Polygon",
@@ -12438,7 +12438,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 786.86
+        "prix_m2": 1573.72
       },
       "geometry": {
         "type": "Polygon",
@@ -12511,7 +12511,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 940.38
+        "prix_m2": 1880.76
       },
       "geometry": {
         "type": "Polygon",
@@ -12580,7 +12580,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1180.375
+        "prix_m2": 2360.75
       },
       "geometry": {
         "type": "Polygon",
@@ -12645,7 +12645,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 989.85
+        "prix_m2": 1979.7
       },
       "geometry": {
         "type": "Polygon",
@@ -12714,7 +12714,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1635.38
+        "prix_m2": 3270.76
       },
       "geometry": {
         "type": "Polygon",
@@ -12815,7 +12815,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 994.61
+        "prix_m2": 1989.22
       },
       "geometry": {
         "type": "Polygon",
@@ -12904,7 +12904,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1354.025
+        "prix_m2": 2708.05
       },
       "geometry": {
         "type": "Polygon",
@@ -12969,7 +12969,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1265.535
+        "prix_m2": 2531.07
       },
       "geometry": {
         "type": "Polygon",
@@ -13042,7 +13042,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1634.705
+        "prix_m2": 3269.41
       },
       "geometry": {
         "type": "Polygon",
@@ -13127,7 +13127,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1486.355
+        "prix_m2": 2972.71
       },
       "geometry": {
         "type": "Polygon",
@@ -13220,7 +13220,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1928.665
+        "prix_m2": 3857.33
       },
       "geometry": {
         "type": "Polygon",
@@ -13285,7 +13285,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 1839.08
+        "prix_m2": 3678.16
       },
       "geometry": {
         "type": "Polygon",
@@ -13366,7 +13366,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1036.345
+        "prix_m2": 2072.69
       },
       "geometry": {
         "type": "Polygon",
@@ -13431,7 +13431,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1164.375
+        "prix_m2": 2328.75
       },
       "geometry": {
         "type": "Polygon",
@@ -13488,7 +13488,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 659.47
+        "prix_m2": 1318.94
       },
       "geometry": {
         "type": "Polygon",
@@ -13549,7 +13549,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1436.65
+        "prix_m2": 2873.3
       },
       "geometry": {
         "type": "Polygon",
@@ -13630,7 +13630,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 895.675
+        "prix_m2": 1791.35
       },
       "geometry": {
         "type": "Polygon",
@@ -13711,7 +13711,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 892.675
+        "prix_m2": 1785.35
       },
       "geometry": {
         "type": "Polygon",
@@ -13788,7 +13788,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 807.535
+        "prix_m2": 1615.07
       },
       "geometry": {
         "type": "Polygon",
@@ -13889,7 +13889,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1065.8
+        "prix_m2": 2131.6
       },
       "geometry": {
         "type": "Polygon",
@@ -13958,7 +13958,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 565.395
+        "prix_m2": 1130.79
       },
       "geometry": {
         "type": "Polygon",
@@ -14027,7 +14027,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 870.595
+        "prix_m2": 1741.19
       },
       "geometry": {
         "type": "Polygon",
@@ -14092,7 +14092,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 9914.81
+        "prix_m2": 19829.62
       },
       "geometry": {
         "type": "Polygon",
@@ -14165,7 +14165,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1593.89
+        "prix_m2": 3187.78
       },
       "geometry": {
         "type": "Polygon",
@@ -14246,7 +14246,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 3338.61
+        "prix_m2": 6677.22
       },
       "geometry": {
         "type": "Polygon",
@@ -14327,7 +14327,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 918.04
+        "prix_m2": 1836.08
       },
       "geometry": {
         "type": "Polygon",
@@ -14440,7 +14440,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1272.605
+        "prix_m2": 2545.21
       },
       "geometry": {
         "type": "Polygon",
@@ -14493,7 +14493,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1258.1
+        "prix_m2": 2516.2
       },
       "geometry": {
         "type": "Polygon",
@@ -14558,7 +14558,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1461.83
+        "prix_m2": 2923.66
       },
       "geometry": {
         "type": "Polygon",
@@ -14623,7 +14623,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération Bassin d'Arcachon Sud (COBAS)",
         "EPCI_CODE": "243300563",
-        "prix_m2": 2911.465
+        "prix_m2": 5822.93
       },
       "geometry": {
         "type": "Polygon",
@@ -14700,7 +14700,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 3964.225
+        "prix_m2": 7928.45
       },
       "geometry": {
         "type": "Polygon",
@@ -14765,7 +14765,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1219.18
+        "prix_m2": 2438.36
       },
       "geometry": {
         "type": "Polygon",
@@ -14834,7 +14834,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1550.995
+        "prix_m2": 3101.99
       },
       "geometry": {
         "type": "Polygon",
@@ -14951,7 +14951,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1873.795
+        "prix_m2": 3747.59
       },
       "geometry": {
         "type": "Polygon",
@@ -15060,7 +15060,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 807.6
+        "prix_m2": 1615.2
       },
       "geometry": {
         "type": "Polygon",
@@ -15121,7 +15121,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1364.805
+        "prix_m2": 2729.61
       },
       "geometry": {
         "type": "Polygon",
@@ -15202,7 +15202,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 1434.23
+        "prix_m2": 2868.46
       },
       "geometry": {
         "type": "Polygon",
@@ -15279,7 +15279,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1605.39
+        "prix_m2": 3210.78
       },
       "geometry": {
         "type": "Polygon",
@@ -15364,7 +15364,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 992.765
+        "prix_m2": 1985.53
       },
       "geometry": {
         "type": "Polygon",
@@ -15441,7 +15441,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1836.97
+        "prix_m2": 3673.94
       },
       "geometry": {
         "type": "Polygon",
@@ -15506,7 +15506,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 5656.565
+        "prix_m2": 11313.13
       },
       "geometry": {
         "type": "Polygon",
@@ -15579,7 +15579,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 266018.205
+        "prix_m2": 532036.41
       },
       "geometry": {
         "type": "Polygon",
@@ -15640,7 +15640,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 937.16
+        "prix_m2": 1874.32
       },
       "geometry": {
         "type": "Polygon",
@@ -15709,7 +15709,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 2426.755
+        "prix_m2": 4853.51
       },
       "geometry": {
         "type": "Polygon",
@@ -15810,7 +15810,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 2813.78
+        "prix_m2": 5627.56
       },
       "geometry": {
         "type": "Polygon",
@@ -15907,7 +15907,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1090.125
+        "prix_m2": 2180.25
       },
       "geometry": {
         "type": "Polygon",
@@ -15968,7 +15968,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1005.445
+        "prix_m2": 2010.89
       },
       "geometry": {
         "type": "Polygon",
@@ -16037,7 +16037,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1254.725
+        "prix_m2": 2509.45
       },
       "geometry": {
         "type": "Polygon",
@@ -16142,7 +16142,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1250.085
+        "prix_m2": 2500.17
       },
       "geometry": {
         "type": "Polygon",
@@ -16207,7 +16207,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 1341.8
+        "prix_m2": 2683.6
       },
       "geometry": {
         "type": "Polygon",
@@ -16280,7 +16280,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 697.93
+        "prix_m2": 1395.86
       },
       "geometry": {
         "type": "Polygon",
@@ -16341,7 +16341,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 2728.915
+        "prix_m2": 5457.83
       },
       "geometry": {
         "type": "Polygon",
@@ -16398,7 +16398,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 671.385
+        "prix_m2": 1342.77
       },
       "geometry": {
         "type": "Polygon",
@@ -16471,7 +16471,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 762.03
+        "prix_m2": 1524.06
       },
       "geometry": {
         "type": "Polygon",
@@ -16528,7 +16528,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1169.22
+        "prix_m2": 2338.44
       },
       "geometry": {
         "type": "Polygon",
@@ -16637,7 +16637,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1386.185
+        "prix_m2": 2772.37
       },
       "geometry": {
         "type": "Polygon",
@@ -16706,7 +16706,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1751.325
+        "prix_m2": 3502.65
       },
       "geometry": {
         "type": "Polygon",
@@ -16791,7 +16791,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 819.48
+        "prix_m2": 1638.96
       },
       "geometry": {
         "type": "Polygon",
@@ -16864,7 +16864,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 2580.22
+        "prix_m2": 5160.44
       },
       "geometry": {
         "type": "Polygon",
@@ -16949,7 +16949,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 945.025
+        "prix_m2": 1890.05
       },
       "geometry": {
         "type": "Polygon",
@@ -17046,7 +17046,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1003.405
+        "prix_m2": 2006.81
       },
       "geometry": {
         "type": "Polygon",
@@ -17107,7 +17107,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 580.65
+        "prix_m2": 1161.3
       },
       "geometry": {
         "type": "Polygon",
@@ -17184,7 +17184,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1170.55
+        "prix_m2": 2341.1
       },
       "geometry": {
         "type": "Polygon",
@@ -17277,7 +17277,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 2240.86
+        "prix_m2": 4481.72
       },
       "geometry": {
         "type": "Polygon",
@@ -17346,7 +17346,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 824.205
+        "prix_m2": 1648.41
       },
       "geometry": {
         "type": "Polygon",
@@ -17415,7 +17415,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 9347.475
+        "prix_m2": 18694.95
       },
       "geometry": {
         "type": "Polygon",
@@ -17536,7 +17536,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1131.89
+        "prix_m2": 2263.78
       },
       "geometry": {
         "type": "Polygon",
@@ -17617,7 +17617,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 3446.09
+        "prix_m2": 6892.18
       },
       "geometry": {
         "type": "Polygon",
@@ -17742,7 +17742,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 963.375
+        "prix_m2": 1926.75
       },
       "geometry": {
         "type": "Polygon",
@@ -17815,7 +17815,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1109.475
+        "prix_m2": 2218.95
       },
       "geometry": {
         "type": "Polygon",
@@ -17924,7 +17924,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1302.775
+        "prix_m2": 2605.55
       },
       "geometry": {
         "type": "Polygon",
@@ -17985,7 +17985,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 706.22
+        "prix_m2": 1412.44
       },
       "geometry": {
         "type": "Polygon",
@@ -18082,7 +18082,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 4687.345
+        "prix_m2": 9374.69
       },
       "geometry": {
         "type": "Polygon",
@@ -18219,7 +18219,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1566.69
+        "prix_m2": 3133.38
       },
       "geometry": {
         "type": "Polygon",
@@ -18288,7 +18288,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1528.195
+        "prix_m2": 3056.39
       },
       "geometry": {
         "type": "Polygon",
@@ -18377,7 +18377,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 617.35
+        "prix_m2": 1234.7
       },
       "geometry": {
         "type": "Polygon",
@@ -18446,7 +18446,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1207.005
+        "prix_m2": 2414.01
       },
       "geometry": {
         "type": "Polygon",
@@ -18499,7 +18499,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1373.605
+        "prix_m2": 2747.21
       },
       "geometry": {
         "type": "Polygon",
@@ -18620,7 +18620,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 6277.245
+        "prix_m2": 12554.49
       },
       "geometry": {
         "type": "Polygon",
@@ -18685,7 +18685,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1511.225
+        "prix_m2": 3022.45
       },
       "geometry": {
         "type": "Polygon",
@@ -18758,7 +18758,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1327.745
+        "prix_m2": 2655.49
       },
       "geometry": {
         "type": "Polygon",
@@ -18843,7 +18843,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1545.31
+        "prix_m2": 3090.62
       },
       "geometry": {
         "type": "Polygon",
@@ -18912,7 +18912,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1130.71
+        "prix_m2": 2261.42
       },
       "geometry": {
         "type": "Polygon",
@@ -18989,7 +18989,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 912.065
+        "prix_m2": 1824.13
       },
       "geometry": {
         "type": "Polygon",
@@ -19050,7 +19050,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 700.92
+        "prix_m2": 1401.84
       },
       "geometry": {
         "type": "Polygon",
@@ -19151,7 +19151,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 1868.69
+        "prix_m2": 3737.38
       },
       "geometry": {
         "type": "Polygon",
@@ -19228,7 +19228,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1288.345
+        "prix_m2": 2576.69
       },
       "geometry": {
         "type": "Polygon",
@@ -19289,7 +19289,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 747.6
+        "prix_m2": 1495.2
       },
       "geometry": {
         "type": "Polygon",
@@ -19350,7 +19350,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1123.215
+        "prix_m2": 2246.43
       },
       "geometry": {
         "type": "Polygon",
@@ -19423,7 +19423,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Val de l'Eyre",
         "EPCI_CODE": "243301405",
-        "prix_m2": 1692.875
+        "prix_m2": 3385.75
       },
       "geometry": {
         "type": "Polygon",
@@ -19512,7 +19512,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 1912.58
+        "prix_m2": 3825.16
       },
       "geometry": {
         "type": "Polygon",
@@ -19621,7 +19621,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 1527.385
+        "prix_m2": 3054.77
       },
       "geometry": {
         "type": "Polygon",
@@ -19734,7 +19734,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1331.94
+        "prix_m2": 2663.88
       },
       "geometry": {
         "type": "Polygon",
@@ -19783,7 +19783,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1071.245
+        "prix_m2": 2142.49
       },
       "geometry": {
         "type": "Polygon",
@@ -19888,7 +19888,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1544.0
+        "prix_m2": 3088.0
       },
       "geometry": {
         "type": "Polygon",
@@ -19949,7 +19949,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 7962.695
+        "prix_m2": 15925.39
       },
       "geometry": {
         "type": "Polygon",
@@ -20050,7 +20050,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1299.28
+        "prix_m2": 2598.56
       },
       "geometry": {
         "type": "Polygon",
@@ -20147,7 +20147,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1032.58
+        "prix_m2": 2065.16
       },
       "geometry": {
         "type": "Polygon",
@@ -20216,7 +20216,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 967.01
+        "prix_m2": 1934.02
       },
       "geometry": {
         "type": "Polygon",
@@ -20309,7 +20309,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1115.0
+        "prix_m2": 2230.0
       },
       "geometry": {
         "type": "Polygon",
@@ -20374,7 +20374,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 2477.625
+        "prix_m2": 4955.25
       },
       "geometry": {
         "type": "Polygon",
@@ -20443,7 +20443,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 2474.05
+        "prix_m2": 4948.1
       },
       "geometry": {
         "type": "Polygon",
@@ -20524,7 +20524,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1627.745
+        "prix_m2": 3255.49
       },
       "geometry": {
         "type": "Polygon",
@@ -20589,7 +20589,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1098.27
+        "prix_m2": 2196.54
       },
       "geometry": {
         "type": "Polygon",
@@ -20654,7 +20654,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1346.77
+        "prix_m2": 2693.54
       },
       "geometry": {
         "type": "Polygon",
@@ -20735,7 +20735,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1926.15
+        "prix_m2": 3852.3
       },
       "geometry": {
         "type": "Polygon",
@@ -20812,7 +20812,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 2338.255
+        "prix_m2": 4676.51
       },
       "geometry": {
         "type": "Polygon",
@@ -20885,7 +20885,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 771.955
+        "prix_m2": 1543.91
       },
       "geometry": {
         "type": "Polygon",
@@ -20938,7 +20938,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 3581.36
+        "prix_m2": 7162.72
       },
       "geometry": {
         "type": "Polygon",
@@ -21051,7 +21051,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 981.465
+        "prix_m2": 1962.93
       },
       "geometry": {
         "type": "Polygon",
@@ -21116,7 +21116,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 790.555
+        "prix_m2": 1581.11
       },
       "geometry": {
         "type": "Polygon",
@@ -21177,7 +21177,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 4675.76
+        "prix_m2": 9351.52
       },
       "geometry": {
         "type": "Polygon",
@@ -21314,7 +21314,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1134.59
+        "prix_m2": 2269.18
       },
       "geometry": {
         "type": "Polygon",
@@ -21375,7 +21375,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 868.42
+        "prix_m2": 1736.84
       },
       "geometry": {
         "type": "Polygon",
@@ -21448,7 +21448,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1221.35
+        "prix_m2": 2442.7
       },
       "geometry": {
         "type": "Polygon",
@@ -21509,7 +21509,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1042.005
+        "prix_m2": 2084.01
       },
       "geometry": {
         "type": "Polygon",
@@ -21590,7 +21590,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 1469.78
+        "prix_m2": 2939.56
       },
       "geometry": {
         "type": "Polygon",
@@ -21715,7 +21715,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1035.445
+        "prix_m2": 2070.89
       },
       "geometry": {
         "type": "Polygon",
@@ -21764,7 +21764,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1264.35
+        "prix_m2": 2528.7
       },
       "geometry": {
         "type": "Polygon",
@@ -21833,7 +21833,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Rives de la Laurence",
         "EPCI_CODE": "243301249",
-        "prix_m2": 1501.35
+        "prix_m2": 3002.7
       },
       "geometry": {
         "type": "Polygon",
@@ -21902,7 +21902,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 836.24
+        "prix_m2": 1672.48
       },
       "geometry": {
         "type": "Polygon",
@@ -21975,7 +21975,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 870.955
+        "prix_m2": 1741.91
       },
       "geometry": {
         "type": "Polygon",
@@ -22024,7 +22024,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 937.23
+        "prix_m2": 1874.46
       },
       "geometry": {
         "type": "Polygon",
@@ -22097,7 +22097,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1259.345
+        "prix_m2": 2518.69
       },
       "geometry": {
         "type": "Polygon",
@@ -22206,7 +22206,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 2437.03
+        "prix_m2": 4874.06
       },
       "geometry": {
         "type": "Polygon",
@@ -22295,7 +22295,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1019.34
+        "prix_m2": 2038.68
       },
       "geometry": {
         "type": "Polygon",
@@ -22364,7 +22364,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1408.455
+        "prix_m2": 2816.91
       },
       "geometry": {
         "type": "Polygon",
@@ -22469,7 +22469,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1877.515
+        "prix_m2": 3755.03
       },
       "geometry": {
         "type": "Polygon",
@@ -22550,7 +22550,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 6046.325
+        "prix_m2": 12092.65
       },
       "geometry": {
         "type": "Polygon",
@@ -22607,7 +22607,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1228.225
+        "prix_m2": 2456.45
       },
       "geometry": {
         "type": "Polygon",
@@ -22688,7 +22688,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 946.675
+        "prix_m2": 1893.35
       },
       "geometry": {
         "type": "Polygon",
@@ -22749,7 +22749,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 987.33
+        "prix_m2": 1974.66
       },
       "geometry": {
         "type": "Polygon",
@@ -22810,7 +22810,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1053.425
+        "prix_m2": 2106.85
       },
       "geometry": {
         "type": "Polygon",
@@ -22883,7 +22883,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1374.39
+        "prix_m2": 2748.78
       },
       "geometry": {
         "type": "Polygon",
@@ -22976,7 +22976,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 812.685
+        "prix_m2": 1625.37
       },
       "geometry": {
         "type": "Polygon",
@@ -23029,7 +23029,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 878.525
+        "prix_m2": 1757.05
       },
       "geometry": {
         "type": "Polygon",
@@ -23110,7 +23110,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1529.55
+        "prix_m2": 3059.1
       },
       "geometry": {
         "type": "Polygon",
@@ -23191,7 +23191,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1120.14
+        "prix_m2": 2240.28
       },
       "geometry": {
         "type": "Polygon",
@@ -23256,7 +23256,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 1957.035
+        "prix_m2": 3914.07
       },
       "geometry": {
         "type": "Polygon",
@@ -23337,7 +23337,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1615.55
+        "prix_m2": 3231.1
       },
       "geometry": {
         "type": "Polygon",
@@ -23414,7 +23414,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1082.38
+        "prix_m2": 2164.76
       },
       "geometry": {
         "type": "Polygon",
@@ -23511,7 +23511,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 977.21
+        "prix_m2": 1954.42
       },
       "geometry": {
         "type": "Polygon",
@@ -23660,7 +23660,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1313.595
+        "prix_m2": 2627.19
       },
       "geometry": {
         "type": "Polygon",
@@ -23729,7 +23729,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 6254.615
+        "prix_m2": 12509.23
       },
       "geometry": {
         "type": "Polygon",
@@ -23842,7 +23842,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1184.13
+        "prix_m2": 2368.26
       },
       "geometry": {
         "type": "Polygon",
@@ -23911,7 +23911,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 952.03
+        "prix_m2": 1904.06
       },
       "geometry": {
         "type": "Polygon",
@@ -24000,7 +24000,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1491.59
+        "prix_m2": 2983.18
       },
       "geometry": {
         "type": "Polygon",
@@ -24065,7 +24065,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 1770.23
+        "prix_m2": 3540.46
       },
       "geometry": {
         "type": "Polygon",
@@ -24142,7 +24142,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1098.905
+        "prix_m2": 2197.81
       },
       "geometry": {
         "type": "Polygon",
@@ -24203,7 +24203,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 796.525
+        "prix_m2": 1593.05
       },
       "geometry": {
         "type": "Polygon",
@@ -24312,7 +24312,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 985.935
+        "prix_m2": 1971.87
       },
       "geometry": {
         "type": "Polygon",
@@ -24393,7 +24393,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 683.265
+        "prix_m2": 1366.53
       },
       "geometry": {
         "type": "Polygon",
@@ -24450,7 +24450,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1948.915
+        "prix_m2": 3897.83
       },
       "geometry": {
         "type": "Polygon",
@@ -24503,7 +24503,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 12718.22
+        "prix_m2": 25436.44
       },
       "geometry": {
         "type": "Polygon",
@@ -24568,7 +24568,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1124.24
+        "prix_m2": 2248.48
       },
       "geometry": {
         "type": "Polygon",
@@ -24633,7 +24633,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 2420.935
+        "prix_m2": 4841.87
       },
       "geometry": {
         "type": "Polygon",
@@ -24706,7 +24706,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1215.335
+        "prix_m2": 2430.67
       },
       "geometry": {
         "type": "Polygon",
@@ -24795,7 +24795,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 817.775
+        "prix_m2": 1635.55
       },
       "geometry": {
         "type": "Polygon",
@@ -24892,7 +24892,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 2094.73
+        "prix_m2": 4189.46
       },
       "geometry": {
         "type": "Polygon",
@@ -24961,7 +24961,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1955.36
+        "prix_m2": 3910.72
       },
       "geometry": {
         "type": "Polygon",
@@ -25038,7 +25038,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1705.815
+        "prix_m2": 3411.63
       },
       "geometry": {
         "type": "Polygon",
@@ -25087,7 +25087,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1081.36
+        "prix_m2": 2162.72
       },
       "geometry": {
         "type": "Polygon",
@@ -25192,7 +25192,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 2723.41
+        "prix_m2": 5446.82
       },
       "geometry": {
         "type": "Polygon",
@@ -25285,7 +25285,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 2557.445
+        "prix_m2": 5114.89
       },
       "geometry": {
         "type": "Polygon",
@@ -25362,7 +25362,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1278.7
+        "prix_m2": 2557.4
       },
       "geometry": {
         "type": "Polygon",
@@ -25435,7 +25435,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 2406.22
+        "prix_m2": 4812.44
       },
       "geometry": {
         "type": "Polygon",
@@ -25512,7 +25512,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1012.735
+        "prix_m2": 2025.47
       },
       "geometry": {
         "type": "Polygon",
@@ -25569,7 +25569,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 5097.95
+        "prix_m2": 10195.9
       },
       "geometry": {
         "type": "Polygon",
@@ -25630,7 +25630,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 957.075
+        "prix_m2": 1914.15
       },
       "geometry": {
         "type": "Polygon",
@@ -25703,7 +25703,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 836.73
+        "prix_m2": 1673.46
       },
       "geometry": {
         "type": "Polygon",
@@ -25768,7 +25768,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 688.405
+        "prix_m2": 1376.81
       },
       "geometry": {
         "type": "Polygon",
@@ -25841,7 +25841,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1494.805
+        "prix_m2": 2989.61
       },
       "geometry": {
         "type": "Polygon",
@@ -25914,7 +25914,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1920.84
+        "prix_m2": 3841.68
       },
       "geometry": {
         "type": "Polygon",
@@ -25971,7 +25971,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1248.605
+        "prix_m2": 2497.21
       },
       "geometry": {
         "type": "Polygon",
@@ -26056,7 +26056,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 927.54
+        "prix_m2": 1855.08
       },
       "geometry": {
         "type": "Polygon",
@@ -26149,7 +26149,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 3402.52
+        "prix_m2": 6805.04
       },
       "geometry": {
         "type": "Polygon",
@@ -26254,7 +26254,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1721.64
+        "prix_m2": 3443.28
       },
       "geometry": {
         "type": "Polygon",
@@ -26343,7 +26343,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1563.335
+        "prix_m2": 3126.67
       },
       "geometry": {
         "type": "Polygon",
@@ -26424,7 +26424,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1444.85
+        "prix_m2": 2889.7
       },
       "geometry": {
         "type": "Polygon",
@@ -26509,7 +26509,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1245.455
+        "prix_m2": 2490.91
       },
       "geometry": {
         "type": "Polygon",
@@ -26562,7 +26562,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1325.065
+        "prix_m2": 2650.13
       },
       "geometry": {
         "type": "Polygon",
@@ -26631,7 +26631,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1108.415
+        "prix_m2": 2216.83
       },
       "geometry": {
         "type": "Polygon",
@@ -26704,7 +26704,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 805.185
+        "prix_m2": 1610.37
       },
       "geometry": {
         "type": "Polygon",
@@ -26777,7 +26777,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 818.12
+        "prix_m2": 1636.24
       },
       "geometry": {
         "type": "Polygon",
@@ -26846,7 +26846,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1288.51
+        "prix_m2": 2577.02
       },
       "geometry": {
         "type": "Polygon",
@@ -26927,7 +26927,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 953.385
+        "prix_m2": 1906.77
       },
       "geometry": {
         "type": "Polygon",
@@ -27008,7 +27008,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 2909.225
+        "prix_m2": 5818.45
       },
       "geometry": {
         "type": "Polygon",
@@ -27093,7 +27093,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 974.54
+        "prix_m2": 1949.08
       },
       "geometry": {
         "type": "Polygon",
@@ -27170,7 +27170,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1124.575
+        "prix_m2": 2249.15
       },
       "geometry": {
         "type": "Polygon",
@@ -27227,7 +27227,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 2461.955
+        "prix_m2": 4923.91
       },
       "geometry": {
         "type": "Polygon",
@@ -27316,7 +27316,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1165.915
+        "prix_m2": 2331.83
       },
       "geometry": {
         "type": "Polygon",
@@ -27385,7 +27385,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1001.25
+        "prix_m2": 2002.5
       },
       "geometry": {
         "type": "Polygon",
@@ -27466,7 +27466,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 995.445
+        "prix_m2": 1990.89
       },
       "geometry": {
         "type": "Polygon",
@@ -27563,7 +27563,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 562.56
+        "prix_m2": 1125.12
       },
       "geometry": {
         "type": "Polygon",
@@ -27628,7 +27628,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 786.76
+        "prix_m2": 1573.52
       },
       "geometry": {
         "type": "Polygon",
@@ -27721,7 +27721,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 880.485
+        "prix_m2": 1760.97
       },
       "geometry": {
         "type": "Polygon",
@@ -27786,7 +27786,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1303.82
+        "prix_m2": 2607.64
       },
       "geometry": {
         "type": "Polygon",
@@ -27863,7 +27863,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 2200.255
+        "prix_m2": 4400.51
       },
       "geometry": {
         "type": "Polygon",
@@ -27936,7 +27936,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1172.575
+        "prix_m2": 2345.15
       },
       "geometry": {
         "type": "Polygon",
@@ -27989,7 +27989,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 715.625
+        "prix_m2": 1431.25
       },
       "geometry": {
         "type": "Polygon",
@@ -28082,7 +28082,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 953.55
+        "prix_m2": 1907.1
       },
       "geometry": {
         "type": "Polygon",
@@ -28139,7 +28139,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 789.42
+        "prix_m2": 1578.84
       },
       "geometry": {
         "type": "Polygon",
@@ -28248,7 +28248,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1546.965
+        "prix_m2": 3093.93
       },
       "geometry": {
         "type": "Polygon",
@@ -28325,7 +28325,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1165.665
+        "prix_m2": 2331.33
       },
       "geometry": {
         "type": "Polygon",
@@ -28438,7 +28438,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 738.79
+        "prix_m2": 1477.58
       },
       "geometry": {
         "type": "Polygon",
@@ -28495,7 +28495,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 6014.58
+        "prix_m2": 12029.16
       },
       "geometry": {
         "type": "Polygon",
@@ -28556,7 +28556,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 851.295
+        "prix_m2": 1702.59
       },
       "geometry": {
         "type": "Polygon",
@@ -28673,7 +28673,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 825.11
+        "prix_m2": 1650.22
       },
       "geometry": {
         "type": "Polygon",
@@ -28734,7 +28734,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 928.09
+        "prix_m2": 1856.18
       },
       "geometry": {
         "type": "Polygon",
@@ -28807,7 +28807,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1210.26
+        "prix_m2": 2420.52
       },
       "geometry": {
         "type": "Polygon",
@@ -28880,7 +28880,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 962.045
+        "prix_m2": 1924.09
       },
       "geometry": {
         "type": "Polygon",
@@ -28981,7 +28981,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1135.465
+        "prix_m2": 2270.93
       },
       "geometry": {
         "type": "Polygon",
@@ -29030,7 +29030,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1418.03
+        "prix_m2": 2836.06
       },
       "geometry": {
         "type": "Polygon",
@@ -29103,7 +29103,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 869.34
+        "prix_m2": 1738.68
       },
       "geometry": {
         "type": "Polygon",
@@ -29176,7 +29176,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 2913.975
+        "prix_m2": 5827.95
       },
       "geometry": {
         "type": "Polygon",
@@ -29277,7 +29277,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 19261.88
+        "prix_m2": 38523.76
       },
       "geometry": {
         "type": "Polygon",
@@ -29370,7 +29370,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 7149.56
+        "prix_m2": 14299.12
       },
       "geometry": {
         "type": "Polygon",
@@ -29455,7 +29455,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 57651.59
+        "prix_m2": 115303.18
       },
       "geometry": {
         "type": "Polygon",
@@ -29536,7 +29536,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Rives de la Laurence",
         "EPCI_CODE": "243301249",
-        "prix_m2": 1891.27
+        "prix_m2": 3782.54
       },
       "geometry": {
         "type": "Polygon",
@@ -29597,7 +29597,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 951.02
+        "prix_m2": 1902.04
       },
       "geometry": {
         "type": "Polygon",
@@ -29666,7 +29666,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1152.875
+        "prix_m2": 2305.75
       },
       "geometry": {
         "type": "Polygon",
@@ -29747,7 +29747,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1080.565
+        "prix_m2": 2161.13
       },
       "geometry": {
         "type": "Polygon",
@@ -29836,7 +29836,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1699.735
+        "prix_m2": 3399.47
       },
       "geometry": {
         "type": "Polygon",
@@ -29893,7 +29893,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 795.12
+        "prix_m2": 1590.24
       },
       "geometry": {
         "type": "Polygon",
@@ -29930,7 +29930,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1207.535
+        "prix_m2": 2415.07
       },
       "geometry": {
         "type": "Polygon",
@@ -30007,7 +30007,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 858.085
+        "prix_m2": 1716.17
       },
       "geometry": {
         "type": "Polygon",
@@ -30080,7 +30080,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 776.12
+        "prix_m2": 1552.24
       },
       "geometry": {
         "type": "Polygon",
@@ -30161,7 +30161,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 1821.7
+        "prix_m2": 3643.4
       },
       "geometry": {
         "type": "Polygon",
@@ -30230,7 +30230,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1546.485
+        "prix_m2": 3092.97
       },
       "geometry": {
         "type": "Polygon",
@@ -30295,7 +30295,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1429.265
+        "prix_m2": 2858.53
       },
       "geometry": {
         "type": "Polygon",
@@ -30360,7 +30360,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1061.825
+        "prix_m2": 2123.65
       },
       "geometry": {
         "type": "Polygon",
@@ -30429,7 +30429,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1353.935
+        "prix_m2": 2707.87
       },
       "geometry": {
         "type": "Polygon",
@@ -30530,7 +30530,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1529.39
+        "prix_m2": 3058.78
       },
       "geometry": {
         "type": "Polygon",
@@ -30603,7 +30603,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1417.305
+        "prix_m2": 2834.61
       },
       "geometry": {
         "type": "Polygon",
@@ -30664,7 +30664,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1203.225
+        "prix_m2": 2406.45
       },
       "geometry": {
         "type": "Polygon",
@@ -30737,7 +30737,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 841.405
+        "prix_m2": 1682.81
       },
       "geometry": {
         "type": "Polygon",
@@ -30806,7 +30806,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1707.145
+        "prix_m2": 3414.29
       },
       "geometry": {
         "type": "Polygon",
@@ -30899,7 +30899,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 881.02
+        "prix_m2": 1762.04
       },
       "geometry": {
         "type": "Polygon",
@@ -30976,7 +30976,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1120.495
+        "prix_m2": 2240.99
       },
       "geometry": {
         "type": "Polygon",
@@ -31033,7 +31033,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 2922.16
+        "prix_m2": 5844.32
       },
       "geometry": {
         "type": "Polygon",
@@ -31082,7 +31082,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 8529.35
+        "prix_m2": 17058.7
       },
       "geometry": {
         "type": "Polygon",
@@ -31139,7 +31139,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Jalle-Eau-Bourde",
         "EPCI_CODE": "243301165",
-        "prix_m2": 2591.16
+        "prix_m2": 5182.32
       },
       "geometry": {
         "type": "Polygon",
@@ -31244,7 +31244,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1722.795
+        "prix_m2": 3445.59
       },
       "geometry": {
         "type": "Polygon",
@@ -31321,7 +31321,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1038.805
+        "prix_m2": 2077.61
       },
       "geometry": {
         "type": "Polygon",
@@ -31470,7 +31470,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1327.465
+        "prix_m2": 2654.93
       },
       "geometry": {
         "type": "Polygon",
@@ -31539,7 +31539,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 1313.365
+        "prix_m2": 2626.73
       },
       "geometry": {
         "type": "Polygon",
@@ -31596,7 +31596,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 918.53
+        "prix_m2": 1837.06
       },
       "geometry": {
         "type": "Polygon",
@@ -31665,7 +31665,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 644.305
+        "prix_m2": 1288.61
       },
       "geometry": {
         "type": "Polygon",
@@ -31726,7 +31726,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 907.95
+        "prix_m2": 1815.9
       },
       "geometry": {
         "type": "Polygon",
@@ -31839,7 +31839,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1335.895
+        "prix_m2": 2671.79
       },
       "geometry": {
         "type": "Polygon",
@@ -31896,7 +31896,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 907.25
+        "prix_m2": 1814.5
       },
       "geometry": {
         "type": "Polygon",
@@ -31945,7 +31945,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Rives de la Laurence",
         "EPCI_CODE": "243301249",
-        "prix_m2": 1643.025
+        "prix_m2": 3286.05
       },
       "geometry": {
         "type": "Polygon",
@@ -32054,7 +32054,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 2052.745
+        "prix_m2": 4105.49
       },
       "geometry": {
         "type": "Polygon",
@@ -32119,7 +32119,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1303.02
+        "prix_m2": 2606.04
       },
       "geometry": {
         "type": "Polygon",
@@ -32172,7 +32172,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Val de l'Eyre",
         "EPCI_CODE": "243301405",
-        "prix_m2": 1662.79
+        "prix_m2": 3325.58
       },
       "geometry": {
         "type": "Polygon",
@@ -32257,7 +32257,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1036.155
+        "prix_m2": 2072.31
       },
       "geometry": {
         "type": "Polygon",
@@ -32342,7 +32342,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1221.155
+        "prix_m2": 2442.31
       },
       "geometry": {
         "type": "Polygon",
@@ -32411,7 +32411,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 2890.76
+        "prix_m2": 5781.52
       },
       "geometry": {
         "type": "Polygon",
@@ -32492,7 +32492,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 886.4
+        "prix_m2": 1772.8
       },
       "geometry": {
         "type": "Polygon",
@@ -32561,7 +32561,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1007.11
+        "prix_m2": 2014.22
       },
       "geometry": {
         "type": "Polygon",
@@ -32618,7 +32618,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1285.815
+        "prix_m2": 2571.63
       },
       "geometry": {
         "type": "Polygon",
@@ -32687,7 +32687,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1883.62
+        "prix_m2": 3767.24
       },
       "geometry": {
         "type": "Polygon",
@@ -32740,7 +32740,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 889.065
+        "prix_m2": 1778.13
       },
       "geometry": {
         "type": "Polygon",
@@ -32809,7 +32809,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1082.77
+        "prix_m2": 2165.54
       },
       "geometry": {
         "type": "Polygon",
@@ -32886,7 +32886,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 701.32
+        "prix_m2": 1402.64
       },
       "geometry": {
         "type": "Polygon",
@@ -32951,7 +32951,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1034.735
+        "prix_m2": 2069.47
       },
       "geometry": {
         "type": "Polygon",
@@ -33044,7 +33044,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 2810.47
+        "prix_m2": 5620.94
       },
       "geometry": {
         "type": "Polygon",
@@ -33129,7 +33129,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 5551.89
+        "prix_m2": 11103.78
       },
       "geometry": {
         "type": "Polygon",
@@ -33238,7 +33238,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 623.23
+        "prix_m2": 1246.46
       },
       "geometry": {
         "type": "Polygon",
@@ -33347,7 +33347,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1383.915
+        "prix_m2": 2767.83
       },
       "geometry": {
         "type": "Polygon",
@@ -33412,7 +33412,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1246.72
+        "prix_m2": 2493.44
       },
       "geometry": {
         "type": "Polygon",
@@ -33497,7 +33497,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 859.33
+        "prix_m2": 1718.66
       },
       "geometry": {
         "type": "Polygon",
@@ -33566,7 +33566,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 1906.355
+        "prix_m2": 3812.71
       },
       "geometry": {
         "type": "Polygon",
@@ -33639,7 +33639,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 820.61
+        "prix_m2": 1641.22
       },
       "geometry": {
         "type": "Polygon",
@@ -33712,7 +33712,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1063.615
+        "prix_m2": 2127.23
       },
       "geometry": {
         "type": "Polygon",
@@ -33773,7 +33773,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1091.87
+        "prix_m2": 2183.74
       },
       "geometry": {
         "type": "Polygon",
@@ -33850,7 +33850,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 981.515
+        "prix_m2": 1963.03
       },
       "geometry": {
         "type": "Polygon",
@@ -33923,7 +33923,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1187.68
+        "prix_m2": 2375.36
       },
       "geometry": {
         "type": "Polygon",
@@ -34004,7 +34004,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 927.805
+        "prix_m2": 1855.61
       },
       "geometry": {
         "type": "Polygon",
@@ -34069,7 +34069,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1110.915
+        "prix_m2": 2221.83
       },
       "geometry": {
         "type": "Polygon",
@@ -34130,7 +34130,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 999.97
+        "prix_m2": 1999.94
       },
       "geometry": {
         "type": "Polygon",
@@ -34183,7 +34183,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1753.335
+        "prix_m2": 3506.67
       },
       "geometry": {
         "type": "Polygon",
@@ -34240,7 +34240,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1020.03
+        "prix_m2": 2040.06
       },
       "geometry": {
         "type": "Polygon",
@@ -34305,7 +34305,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1156.55
+        "prix_m2": 2313.1
       },
       "geometry": {
         "type": "Polygon",
@@ -34366,7 +34366,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Pays Foyen",
         "EPCI_CODE": "243301371",
-        "prix_m2": 1051.425
+        "prix_m2": 2102.85
       },
       "geometry": {
         "type": "Polygon",
@@ -34447,7 +34447,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 844.1
+        "prix_m2": 1688.2
       },
       "geometry": {
         "type": "Polygon",
@@ -34528,7 +34528,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1511.67
+        "prix_m2": 3023.34
       },
       "geometry": {
         "type": "Polygon",
@@ -34601,7 +34601,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1204.475
+        "prix_m2": 2408.95
       },
       "geometry": {
         "type": "Polygon",
@@ -34674,7 +34674,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 899.94
+        "prix_m2": 1799.88
       },
       "geometry": {
         "type": "Polygon",
@@ -34735,7 +34735,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1149.715
+        "prix_m2": 2299.43
       },
       "geometry": {
         "type": "Polygon",
@@ -34844,7 +34844,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 1748.96
+        "prix_m2": 3497.92
       },
       "geometry": {
         "type": "Polygon",
@@ -34925,7 +34925,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 1149.05
+        "prix_m2": 2298.1
       },
       "geometry": {
         "type": "Polygon",
@@ -34978,7 +34978,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1138.79
+        "prix_m2": 2277.58
       },
       "geometry": {
         "type": "Polygon",
@@ -35055,7 +35055,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de l'Estuaire",
         "EPCI_CODE": "243300811",
-        "prix_m2": 1302.97
+        "prix_m2": 2605.94
       },
       "geometry": {
         "type": "Polygon",
@@ -35104,7 +35104,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 924.765
+        "prix_m2": 1849.53
       },
       "geometry": {
         "type": "Polygon",
@@ -35189,7 +35189,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1151.985
+        "prix_m2": 2303.97
       },
       "geometry": {
         "type": "Polygon",
@@ -35246,7 +35246,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 3801.025
+        "prix_m2": 7602.05
       },
       "geometry": {
         "type": "Polygon",
@@ -35323,7 +35323,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1014.73
+        "prix_m2": 2029.46
       },
       "geometry": {
         "type": "Polygon",
@@ -35392,7 +35392,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 929.105
+        "prix_m2": 1858.21
       },
       "geometry": {
         "type": "Polygon",
@@ -35465,7 +35465,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Rives de la Laurence",
         "EPCI_CODE": "243301249",
-        "prix_m2": 1740.055
+        "prix_m2": 3480.11
       },
       "geometry": {
         "type": "Polygon",
@@ -35550,7 +35550,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1142.19
+        "prix_m2": 2284.38
       },
       "geometry": {
         "type": "Polygon",
@@ -35707,7 +35707,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 1608.74
+        "prix_m2": 3217.48
       },
       "geometry": {
         "type": "Polygon",
@@ -35800,7 +35800,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1097.33
+        "prix_m2": 2194.66
       },
       "geometry": {
         "type": "Polygon",
@@ -35861,7 +35861,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 1509.625
+        "prix_m2": 3019.25
       },
       "geometry": {
         "type": "Polygon",
@@ -35946,7 +35946,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 1293.915
+        "prix_m2": 2587.83
       },
       "geometry": {
         "type": "Polygon",
@@ -36011,7 +36011,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 960.81
+        "prix_m2": 1921.62
       },
       "geometry": {
         "type": "Polygon",
@@ -36068,7 +36068,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1405.75
+        "prix_m2": 2811.5
       },
       "geometry": {
         "type": "Polygon",
@@ -36145,7 +36145,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 883.59
+        "prix_m2": 1767.18
       },
       "geometry": {
         "type": "Polygon",
@@ -36238,7 +36238,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Latitude Nord Gironde",
         "EPCI_CODE": "243301181",
-        "prix_m2": 1156.325
+        "prix_m2": 2312.65
       },
       "geometry": {
         "type": "Polygon",
@@ -36299,7 +36299,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 16470.15
+        "prix_m2": 32940.3
       },
       "geometry": {
         "type": "Polygon",
@@ -36376,7 +36376,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1699.24
+        "prix_m2": 3398.48
       },
       "geometry": {
         "type": "Polygon",
@@ -36449,7 +36449,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 2221.55
+        "prix_m2": 4443.1
       },
       "geometry": {
         "type": "Polygon",
@@ -36530,7 +36530,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Val de l'Eyre",
         "EPCI_CODE": "243301405",
-        "prix_m2": 1830.495
+        "prix_m2": 3660.99
       },
       "geometry": {
         "type": "Polygon",
@@ -36643,7 +36643,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Castillon/Pujols",
         "EPCI_CODE": "243301454",
-        "prix_m2": 2732.605
+        "prix_m2": 5465.21
       },
       "geometry": {
         "type": "Polygon",
@@ -36708,7 +36708,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 946.13
+        "prix_m2": 1892.26
       },
       "geometry": {
         "type": "Polygon",
@@ -36773,7 +36773,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Montesquieu",
         "EPCI_CODE": "243301264",
-        "prix_m2": 1838.55
+        "prix_m2": 3677.1
       },
       "geometry": {
         "type": "Polygon",
@@ -36866,7 +36866,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 883.4
+        "prix_m2": 1766.8
       },
       "geometry": {
         "type": "Polygon",
@@ -36935,7 +36935,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1549.765
+        "prix_m2": 3099.53
       },
       "geometry": {
         "type": "Polygon",
@@ -37012,7 +37012,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1417.575
+        "prix_m2": 2835.15
       },
       "geometry": {
         "type": "Polygon",
@@ -37081,7 +37081,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1867.47
+        "prix_m2": 3734.94
       },
       "geometry": {
         "type": "Polygon",
@@ -37178,7 +37178,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1254.8
+        "prix_m2": 2509.6
       },
       "geometry": {
         "type": "Polygon",
@@ -37275,7 +37275,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1150.68
+        "prix_m2": 2301.36
       },
       "geometry": {
         "type": "Polygon",
@@ -37368,7 +37368,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Réolais en Sud Gironde",
         "EPCI_CODE": "200044394",
-        "prix_m2": 1099.245
+        "prix_m2": 2198.49
       },
       "geometry": {
         "type": "Polygon",
@@ -37449,7 +37449,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1065.585
+        "prix_m2": 2131.17
       },
       "geometry": {
         "type": "Polygon",
@@ -37522,7 +37522,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1056.475
+        "prix_m2": 2112.95
       },
       "geometry": {
         "type": "Polygon",
@@ -37595,7 +37595,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1054.085
+        "prix_m2": 2108.17
       },
       "geometry": {
         "type": "Polygon",
@@ -37672,7 +37672,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 1130.05
+        "prix_m2": 2260.1
       },
       "geometry": {
         "type": "Polygon",
@@ -37785,7 +37785,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Bazadais",
         "EPCI_CODE": "200043982",
-        "prix_m2": 724.505
+        "prix_m2": 1449.01
       },
       "geometry": {
         "type": "Polygon",
@@ -37858,7 +37858,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 9059.065
+        "prix_m2": 18118.13
       },
       "geometry": {
         "type": "Polygon",
@@ -37943,7 +37943,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 779.94
+        "prix_m2": 1559.88
       },
       "geometry": {
         "type": "Polygon",
@@ -38008,7 +38008,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1108.29
+        "prix_m2": 2216.58
       },
       "geometry": {
         "type": "Polygon",
@@ -38081,7 +38081,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Estuaire",
         "EPCI_CODE": "243301447",
-        "prix_m2": 1354.895
+        "prix_m2": 2709.79
       },
       "geometry": {
         "type": "Polygon",
@@ -38186,7 +38186,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1463.41
+        "prix_m2": 2926.82
       },
       "geometry": {
         "type": "Polygon",
@@ -38259,7 +38259,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 2170.385
+        "prix_m2": 4340.77
       },
       "geometry": {
         "type": "Polygon",
@@ -38332,7 +38332,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1401.24
+        "prix_m2": 2802.48
       },
       "geometry": {
         "type": "Polygon",
@@ -38397,7 +38397,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1114.365
+        "prix_m2": 2228.73
       },
       "geometry": {
         "type": "Polygon",
@@ -38466,7 +38466,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 31604.78
+        "prix_m2": 63209.56
       },
       "geometry": {
         "type": "Polygon",
@@ -38535,7 +38535,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes rurales de l'Entre-Deux-Mers",
         "EPCI_CODE": "200069599",
-        "prix_m2": 1326.07
+        "prix_m2": 2652.14
       },
       "geometry": {
         "type": "Polygon",
@@ -38636,7 +38636,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1223.995
+        "prix_m2": 2447.99
       },
       "geometry": {
         "type": "Polygon",
@@ -38689,7 +38689,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1261.075
+        "prix_m2": 2522.15
       },
       "geometry": {
         "type": "Polygon",
@@ -38766,7 +38766,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 802.145
+        "prix_m2": 1604.29
       },
       "geometry": {
         "type": "Polygon",
@@ -38831,7 +38831,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération Bassin d'Arcachon Sud (COBAS)",
         "EPCI_CODE": "243300563",
-        "prix_m2": 2836.665
+        "prix_m2": 5673.33
       },
       "geometry": {
         "type": "Polygon",
@@ -38928,7 +38928,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médullienne",
         "EPCI_CODE": "243301389",
-        "prix_m2": 1497.845
+        "prix_m2": 2995.69
       },
       "geometry": {
         "type": "Polygon",
@@ -39021,7 +39021,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération Bassin d'Arcachon Sud (COBAS)",
         "EPCI_CODE": "243300563",
-        "prix_m2": 4395.385
+        "prix_m2": 8790.77
       },
       "geometry": {
         "type": "Polygon",
@@ -39122,7 +39122,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1011.06
+        "prix_m2": 2022.12
       },
       "geometry": {
         "type": "Polygon",
@@ -39195,7 +39195,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 2865.135
+        "prix_m2": 5730.27
       },
       "geometry": {
         "type": "Polygon",
@@ -39252,7 +39252,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 952.31
+        "prix_m2": 1904.62
       },
       "geometry": {
         "type": "Polygon",
@@ -39321,7 +39321,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1362.61
+        "prix_m2": 2725.22
       },
       "geometry": {
         "type": "Polygon",
@@ -39378,7 +39378,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes des Portes de l'Entre-Deux-Mers",
         "EPCI_CODE": "243301439",
-        "prix_m2": 1542.49
+        "prix_m2": 3084.98
       },
       "geometry": {
         "type": "Polygon",
@@ -39431,7 +39431,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Coteaux Bordelais",
         "EPCI_CODE": "243301355",
-        "prix_m2": 2238.825
+        "prix_m2": 4477.65
       },
       "geometry": {
         "type": "Polygon",
@@ -39500,7 +39500,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1578.065
+        "prix_m2": 3156.13
       },
       "geometry": {
         "type": "Polygon",
@@ -39581,7 +39581,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1085.095
+        "prix_m2": 2170.19
       },
       "geometry": {
         "type": "Polygon",
@@ -39650,7 +39650,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 795.77
+        "prix_m2": 1591.54
       },
       "geometry": {
         "type": "Polygon",
@@ -39711,7 +39711,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Libournais",
         "EPCI_CODE": "200070092",
-        "prix_m2": 1393.945
+        "prix_m2": 2787.89
       },
       "geometry": {
         "type": "Polygon",
@@ -39796,7 +39796,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 3351.74
+        "prix_m2": 6703.48
       },
       "geometry": {
         "type": "Polygon",
@@ -39885,7 +39885,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1571.09
+        "prix_m2": 3142.18
       },
       "geometry": {
         "type": "Polygon",
@@ -39994,7 +39994,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1592.22
+        "prix_m2": 3184.44
       },
       "geometry": {
         "type": "Polygon",
@@ -40079,7 +40079,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1000.995
+        "prix_m2": 2001.99
       },
       "geometry": {
         "type": "Polygon",
@@ -40144,7 +40144,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Atlantique",
         "EPCI_CODE": "200070720",
-        "prix_m2": 1379.76
+        "prix_m2": 2759.52
       },
       "geometry": {
         "type": "Polygon",
@@ -40249,7 +40249,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Médoc Coeur de Presqu'île",
         "EPCI_CODE": "200069995",
-        "prix_m2": 1152.515
+        "prix_m2": 2305.03
       },
       "geometry": {
         "type": "Polygon",
@@ -40330,7 +40330,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Saint-Émilionnais",
         "EPCI_CODE": "200035533",
-        "prix_m2": 881.325
+        "prix_m2": 1762.65
       },
       "geometry": {
         "type": "Polygon",
@@ -40395,7 +40395,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Sud Gironde",
         "EPCI_CODE": "200043974",
-        "prix_m2": 1297.815
+        "prix_m2": 2595.63
       },
       "geometry": {
         "type": "Polygon",
@@ -40484,7 +40484,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Fronsadais",
         "EPCI_CODE": "243301397",
-        "prix_m2": 1352.94
+        "prix_m2": 2705.88
       },
       "geometry": {
         "type": "Polygon",
@@ -40569,7 +40569,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Créonnais",
         "EPCI_CODE": "243301215",
-        "prix_m2": 1121.335
+        "prix_m2": 2242.67
       },
       "geometry": {
         "type": "Polygon",
@@ -40626,7 +40626,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Bordeaux Métropole",
         "EPCI_CODE": "243300316",
-        "prix_m2": 6902.13
+        "prix_m2": 13804.26
       },
       "geometry": {
         "type": "Polygon",
@@ -40715,7 +40715,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes de Blaye",
         "EPCI_CODE": "200023794",
-        "prix_m2": 849.265
+        "prix_m2": 1698.53
       },
       "geometry": {
         "type": "Polygon",
@@ -40776,7 +40776,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Convergence Garonne",
         "EPCI_CODE": "200069581",
-        "prix_m2": 1223.8
+        "prix_m2": 2447.6
       },
       "geometry": {
         "type": "Polygon",
@@ -40841,7 +40841,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes du Grand Cubzaguais",
         "EPCI_CODE": "243301223",
-        "prix_m2": 1266.96
+        "prix_m2": 2533.92
       },
       "geometry": {
         "type": "Polygon",
@@ -40902,7 +40902,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté de communes Les Rives de la Laurence",
         "EPCI_CODE": "243301249",
-        "prix_m2": 2305.755
+        "prix_m2": 4611.51
       },
       "geometry": {
         "type": "Polygon",
@@ -40971,7 +40971,7 @@
         "DEPARTEMEN": "Gironde",
         "EPCI": "Communauté d'agglomération du Bassin d'Arcachon Nord",
         "EPCI_CODE": "243301504",
-        "prix_m2": 2214.85
+        "prix_m2": 4429.7
       },
       "geometry": {
         "type": "Polygon",

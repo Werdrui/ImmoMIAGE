@@ -13,16 +13,17 @@ function isActive($page)
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mon Site Classique — Carte des prix immobiliers</title>
+    <title>ImmoMIAGE Carte des prix immobiliers</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://unpkg.com/maplibre-gl@3.6.1/dist/maplibre-gl.css" rel="stylesheet" />
+    <title>Une maison ? Un prix !</title>
     <script src="https://unpkg.com/maplibre-gl@3.6.1/dist/maplibre-gl.js"></script>
 </head>
 
 <body>
     <header class="site-header">
         <div class="container">
-            <h1 class="logo"><a href="index.php">MonSite</a></h1>
+            <h1 class="logo"><a href="index.php">ImmoMIAGE</a></h1>
             <nav class="main-nav">
                 <ul>
                     <li class="<?php echo isActive('index.php'); ?>"><a href="index.php">Accueil</a></li>
@@ -35,20 +36,54 @@ function isActive($page)
 
 
     <main class="container">
-        <section class="hero">
-            <h2>Bienvenue sur mon site classique</h2>
-            <p>Ceci est une page d'exemple avec une carte interactive gratuite (MapLibre + OpenStreetMap).</p>
-            <p><a class="btn" href="#map-section">Voir la carte</a></p>
-        </section>
-
         <section id="calcul-prix" class="content">
             <h2>Calculer le prix d’un bien</h2>
-            <div id="form-calcul" style="margin-bottom: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
+            <div id="form-calcul">
                 <select id="departementSelect">
                     <option value="">Sélectionnez un département</option>
                 </select>
 
                 <input type="number" id="surfaceInput" value="10" placeholder="Surface en m²" min="1" style="width: 120px; padding: 0.3rem; border-radius: 5px; border: 1px solid #ccc;">
+                <div>
+                    
+                    <label>Type de logement :</label>
+                    <input type="radio" name="type_logement" value="maison" checked> Maison
+                    <input type="radio" name="type_logement" value="appartement"> Appartement
+                </div>
+                <div>
+                    <input type="number" id="anneeInput" placeholder="Année de construction" min="1800" max="2025">
+                </div>
+                
+
+                <input type="number" id="nbPiecesInput" placeholder="Nombre de pièces" min="1">
+
+                <input type="number" id="nbMetresJardinInput" placeholder="Surface du jardin (m²)" min="0">
+
+                <input type="number" id="nbEtagesInput" placeholder="Nombre d'étages" min="0">
+
+                <div>
+                    <label><input type="checkbox" id="piscineInput"> Piscine</label>
+                    <label><input type="checkbox" id="parkingInput"> Parking</label>
+                    <label><input type="checkbox" id="balconTerrasseInput"> Balcon/Terrasse</label>
+                </div>
+
+                <select id="diagEnergetiqueInput">
+                    <option value="Inconnu">Diagnostic énergétique</option>
+                    <option value="A">A</option>
+                    <option value="B">B</option>
+                    <option value="C">C</option>
+                    <option value="D">D</option>
+                    <option value="E">E</option>
+                    <option value="F">F</option>
+                </select>
+
+                <select id="vestusteInput">
+                    <option value="Inconnu">Vétusté</option>
+                    <option value="A">Très bon état</option>
+                    <option value="B">Bon état</option>
+                    <option value="C">Passable</option>
+                    <option value="D">Travaux obligatoires</option>
+                </select>
 
                 <button id="calculer" style="padding: 0.5rem 1rem; border-radius: 5px; border: none; background-color: #0b66ff; color: #fff; cursor: pointer;">Calculer</button>
             </div>
@@ -62,15 +97,6 @@ function isActive($page)
             <div id="map"></div>
         </section>
     </main>
-
-
-    <footer class="site-footer">
-        <div class="container">
-            <p>© <?php echo date('Y'); ?> MonSite — Tous droits réservés.</p>
-            <p class="small">Carte rendue possible grâce à MapLibre & OpenStreetMap.</p>
-        </div>
-    </footer>
-
 
     <script>
         const map = new maplibregl.Map({
@@ -91,7 +117,6 @@ function isActive($page)
             zoom: 8.5
         });
 
-        // Chargement du GeoJSON fusionné (Gironde uniquement)
         fetch('data/communes_gironde_prix.geojson')
             .then(res => res.json())
             .then(data => {
@@ -101,7 +126,6 @@ function isActive($page)
                     data: data
                 });
 
-                // Palette de couleur selon le prix moyen
                 map.addLayer({
                     id: 'communes-layer',
                     type: 'fill',
@@ -111,18 +135,17 @@ function isActive($page)
                             'interpolate',
                             ['linear'],
                             ['get', 'prix_m2'],
-                            1000, '#edf8e9',
-                            2500, '#bae4b3',
-                            4000, '#74c476',
-                            6000, '#31a354',
-                            8000, '#006d2c'
+                            500, '#edf8e9',
+                            1250, '#bae4b3',
+                            2500, '#74c476',
+                            3000, '#31a354',
+                            4000, '#006d2c'
                         ],
                         'fill-opacity': 0.7,
                         'fill-outline-color': '#21a3d6ff'
                     }
                 });
 
-                // Ajout des communes dans le menu déroulant
                 const select = document.getElementById('departementSelect');
                 data.features.forEach(f => {
                     const opt = document.createElement('option');
@@ -131,7 +154,6 @@ function isActive($page)
                     select.appendChild(opt);
                 });
 
-                // Popup au survol
                 const popup = new maplibregl.Popup({
                     closeButton: false,
                     closeOnClick: false
@@ -155,7 +177,6 @@ function isActive($page)
                     popup.remove();
                 });
 
-                // Sélection d’une commune par clic
                 map.on('click', 'communes-layer', e => {
                     if (!e.features.length) return;
                     const props = e.features[0].properties;
@@ -163,7 +184,6 @@ function isActive($page)
                     calculerPrix();
                 });
 
-                // Calculer le prix total quand on clique sur le bouton
                 document.getElementById('calculer').addEventListener('click', calculerPrix);
 
                 function calculerPrix() {
@@ -172,8 +192,46 @@ function isActive($page)
                     const commune = data.features.find(f => f.properties.DCOE_C_COD === insee);
 
                     if (commune && commune.properties.prix_m2) {
-                        const prix_m2 = commune.properties.prix_m2;
-                        const total = Math.round(prix_m2 * surface).toLocaleString('fr-FR');
+                        const surface = parseFloat(document.getElementById('surfaceInput').value) || 0;
+                        const annee = parseInt(document.getElementById('anneeInput').value) || 2000;
+                        const typeLogement = document.querySelector('input[name="type_logement"]:checked').value;
+                        const nbPieces = parseInt(document.getElementById('nbPiecesInput').value) || 1;
+                        const nbMetresJardin = parseInt(document.getElementById('nbMetresJardinInput').value) || 0;
+                        const nbEtages = parseInt(document.getElementById('nbEtagesInput').value) || 1;
+                        const piscine = document.getElementById('piscineInput').checked;
+                        const parking = document.getElementById('parkingInput').checked;
+                        const balconTerrasse = document.getElementById('balconTerrasseInput').checked;
+                        const diagEnergetique = document.getElementById('diagEnergetiqueInput').value;
+                        const vestuste = document.getElementById('vestusteInput').value;
+
+                        let prix_m2 = commune.properties.prix_m2;
+
+                        if(typeLogement === 'appartement') prix_m2 *= 1.2;
+                        else prix_m2 *= 1.5;
+
+                        if(nbPieces > 3) prix_m2 *= 1 + (nbPieces - 3) * 0.05;
+
+                        if(nbMetresJardin > 0) prix_m2 += nbMetresJardin * 20;
+
+                        if(nbEtages > 1) prix_m2 *= 1 + (nbEtages - 1) * 0.03;
+
+                        if(piscine) prix_m2 += 5000;
+                        if(parking) prix_m2 += 3000;
+                        if(balconTerrasse) prix_m2 += 2000;
+
+                        const diagMultiplicateurs = {A:1.2, B:1.1, C:1, D:0.9, E:0.8, F:0.7};
+                        if(diagEnergetique in diagMultiplicateurs) prix_m2 *= diagMultiplicateurs[diagEnergetique];
+
+                        const vestusteMultiplicateurs = {A:1.2, B:1.1, C:0.9, D:0.7};
+                        if(vestuste in vestusteMultiplicateurs) prix_m2 *= vestusteMultiplicateurs[vestuste];
+
+                        const age = new Date().getFullYear() - annee;
+                        if(age < 10) prix_m2 *= 1.1;
+                        else if(age < 30) prix_m2 *= 1;
+                        else if(age < 50) prix_m2 *= 0.9;
+                        else prix_m2 *= 0.8;
+                        const total = Math.round(prix_m2 * surface);
+
                         document.getElementById('info').textContent =
                             `🏠 ${commune.properties.DCOE_L_LIB} : ${prix_m2} €/m² → Total estimé : ${total} €`;
                     } else {
